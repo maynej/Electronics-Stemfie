@@ -17,7 +17,7 @@ Suports 3D
   
 Descripció         | imatge          | arxiu         
 ------------- | ------------- | ------------- 
-Suport Arduino Nano|https://github.com/maynej/Electronics-Stemfie/tree/main/Imatges/ArduinoNano.jpg | [ballcaster-v2.stl](https://github.com/maynej/Electronics-Stemfie/tree/main/CPU)  
+Suport Arduino Nano|!https://github.com/maynej/Electronics-Stemfie/tree/main/Imatges/ArduinoNano.jpg | [ballcaster-v2.stl](https://github.com/maynej/Electronics-Stemfie/tree/main/CPU)  
 Suport Bateria Li-ion 16850|!(https://github.com/maynej/Electronics-Stemfie/tree/main/Imatges/16850.jpg) | (https://github.com/maynej/Electronics-Stemfie/tree/main/CPU)  
 Suport Arduino UNO|(https://github.com/maynej/Electronics-Stemfie/tree/main/Imatges/ArduinoUNO.jpg) | (https://github.com/maynej/Electronics-Stemfie/tree/main/CPU) 
 Suport Expansió Micro:bit|(https://github.com/maynej/Electronics-Stemfie/tree/main/Imatges/Microbit.jpg) | (https://github.com/maynej/Electronics-Stemfie/tree/main/CPU)  
