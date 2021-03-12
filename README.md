@@ -8,6 +8,6 @@ Stemfie es un proyecto de construcción que se imprime en 3D (http://stemfie.org
 
 Pretende facilitar la automatización de las construcciones con tarjetas Arduino, Microbit, ESP...
 
-Toda la [información en este documento PDF](doc/Electrònica amb compatibilitat Stemfie.pdf).
+Toda la [información en este documento PDF](https://github.com/maynej/Electronics-Stemfie/tree/main/Doc).
 
 Aquí los [STL para imprimir](stl).
