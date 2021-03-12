@@ -19,7 +19,7 @@ Descripció         | Imatge          | Arxiu
 ------------- | ------------- | ------------- 
 Suport Arduino Nano|!https://github.com/maynej/Electronics-Stemfie/tree/main/Imatges/ArduinoNano.png | https://github.com/maynej/Electronics-Stemfie/tree/main/CPU  
 Suport Bateria Li-ion 16850|![ballcaster-v2.stl](https://github.com/maynej/Electronics-Stemfie/tree/main/Imatges/16850.png) | (https://github.com/maynej/Electronics-Stemfie/tree/main/CPU)  
-Suport Arduino UNO| ![Placa XDeSIG](Imatges/ArduinoUNO.png) | https://github.com/maynej/Electronics-Stemfie/tree/main/CPU 
+Suport Arduino UNO| !(Imatges/ArduinoUNO.png) | https://github.com/maynej/Electronics-Stemfie/tree/main/CPU 
 Suport Expansió Micro:bit|(https://github.com/maynej/Electronics-Stemfie/tree/main/Imatges/Microbit.png) | (https://github.com/maynej/Electronics-Stemfie/tree/main/CPU)  
 Suport Expansió ESP|(https://github.com/maynej/Electronics-Stemfie/tree/main/Imatges/ESP.png | (https://github.com/maynej/Electronics-Stemfie/tree/main/CPU)  
 Suport Motor DC TT|(https://github.com/maynej/Electronics-Stemfie/tree/main/Imatges/motorTT.png | (https://github.com/maynej/Electronics-Stemfie/tree/main/Motor)  
