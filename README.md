@@ -10,4 +10,4 @@ Pretende facilitar la automatización de las construcciones con tarjetas Arduino
 
 Toda la [información en este documento PDF](https://github.com/maynej/Electronics-Stemfie/tree/main/Doc).
 
-Aquí los [STL para imprimir](stl).
+Aquí los [STL para imprimir](https://github.com/maynej/Electronics-Stemfie).
