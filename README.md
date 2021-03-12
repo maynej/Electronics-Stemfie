@@ -18,12 +18,12 @@ Suports 3D
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
 Suport Arduino Nano|![ArduinoUNO](Imatges/ArduinoNano.png) | https://github.com/maynej/Electronics-Stemfie/tree/main/CPU  
-Suport Bateria Li-ion 16850|![16850](Imatges/16850.png) | (https://github.com/maynej/Electronics-Stemfie/tree/main/CPU)  
+Suport Bateria Li-ion 18650|![18650](Imatges/18650.png) | (https://github.com/maynej/Electronics-Stemfie/tree/main/CPU)  
 Suport Arduino UNO|![ArduinoUNO](Imatges/ArduinoUNO.png) | https://github.com/maynej/Electronics-Stemfie/tree/main/CPU 
 Suport Expansió Micro:bit|![Microbit](/Imatges/Microbit.png) | (https://github.com/maynej/Electronics-Stemfie/tree/main/CPU)  
 Suport Expansió ESP|![ESP](Imatges/ESP.png) | (https://github.com/maynej/Electronics-Stemfie/tree/main/CPU)  
 Suport Motor DC TT|![Motor](Imatges/MotorTT.png) | (https://github.com/maynej/Electronics-Stemfie/tree/main/Motor)  
-Suport Motor DC Reductora|![Motor](Imatges/MotorDCReductora.png) | (https://github.com/maynej/Electronics-Stemfie/tree/main/Motor)
+Suport Motor DC Reductora|![Motor](Imatges/MotorReductora.png) | (https://github.com/maynej/Electronics-Stemfie/tree/main/Motor)
 Suport Motor Pas a Pas 28BYJ‐48|![Motor](Imatges/28BYJ-48.png) | (https://github.com/maynej/Electronics-Stemfie/tree/main/Motor)
 Suport Servo-motor SG9|![Servo](Imatges/ServoMotor.png) | (https://github.com/maynej/Electronics-Stemfie/tree/main/Servomotor)
 Suport palanca Servo-motor SG9|![Servo](Imatges/Adapter.png) | (https://github.com/maynej/Electronics-Stemfie/tree/main/Servomotor)
