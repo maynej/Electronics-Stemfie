@@ -17,18 +17,18 @@ Suports 3D
   
 Descripció         | imatge          | arxiu         
 ------------- | ------------- | ------------- 
-Suport Arduino Nano|!(imatges/ballcaster-v2.png) | [ballcaster-v2.stl](archivos-stl/ballcaster-v2.stl)  
-Suport Bateria Li-ion 16850|![battery-bracket.stl](imatges/16850.jpg) | [battery-bracket.stl](archivos-stl/battery-bracket.stl)  
-Suport Arduino UNO|![MotorBracket.stl](imatges/ArduinoUNO.jpg) | [MotorBracket.stl](archivos-stl/MotorBracket.stl)  
-Suport Expansió Micro:bit|![board-bracket.stl](imatges/Microbit.jpg) | [board-bracket.stl](archivos-stl/board-bracket.stl)  
-Suport Expansió ESP|![Addon-KeypadBracket-PCB.stl](imagenes/Addon-KeypadBracket-PCB.png) | [Addon-KeypadBracket-PCB.stl](archivos-stl/Addon-KeypadBracket-PCB.stl)  
-Suport Motor DC TT|![wheel-l.stl](imagenes/wheel-l.png) | [wheel-l.stl](archivos-stl/wheel-l.stl)  
-Suport Motor DC Reductora|![wheel-r.stl](imagenes/wheel-r.png) | [wheel-r.stl](archivos-stl/wheel-r.stl)
-Suport Motor Pas a Pas 28BYJ‐48|![wheel-r.stl](imatges/Servomotor.jpg) | [wheel-r.stl](archivos-stl/wheel-r.stl)
-Suport Servo-motor SG9|!(imatges/Servomtor.jpg) | ()
-Suport palanca Servo-motor SG9|![wheel-r.stl](imatges/Servomotor.jpg) | [wheel-r.stl](archivos-stl/wheel-r.stl)
-Suport Sensor Ultrasons HC‐SR04‐P|![wheel-r.stl](imatges/SensiorDistancia.jpg) | [wheel-r.stl](archivos-stl/wheel-r.stl) 
-Suport Sensor Llum LDR|![wheel-r.stl](imatges/LDR.jpg) | [wheel-r.stl](archivos-stl/wheel-r.stl) 
+Suport Arduino Nano|(https://github.com/maynej/Electronics-Stemfie/tree/main/imatges/ArduinoNano.jpg) | [ballcaster-v2.stl](https://github.com/maynej/Electronics-Stemfie/tree/main/CPU)  
+Suport Bateria Li-ion 16850|(https://github.com/maynej/Electronics-Stemfie/tree/main/imatges/16850.jpg) | (https://github.com/maynej/Electronics-Stemfie/tree/main/CPU)  
+Suport Arduino UNO|(https://github.com/maynej/Electronics-Stemfie/tree/main/imatges/ArduinoUNO.jpg) | (https://github.com/maynej/Electronics-Stemfie/tree/main/CPU) 
+Suport Expansió Micro:bit|(https://github.com/maynej/Electronics-Stemfie/tree/main/imatges/Microbit.jpg) | (https://github.com/maynej/Electronics-Stemfie/tree/main/CPU)  
+Suport Expansió ESP|(https://github.com/maynej/Electronics-Stemfie/tree/main/imatges/ESP.jpg | (https://github.com/maynej/Electronics-Stemfie/tree/main/CPU)  
+Suport Motor DC TT|(https://github.com/maynej/Electronics-Stemfie/tree/main/imatges/motorTT.jpg | (https://github.com/maynej/Electronics-Stemfie/tree/main/Motor)  
+Suport Motor DC Reductora|(https://github.com/maynej/Electronics-Stemfie/tree/main/imatges/MotorDCReductora | (https://github.com/maynej/Electronics-Stemfie/tree/main/Motor)
+Suport Motor Pas a Pas 28BYJ‐48|(https://github.com/maynej/Electronics-Stemfie/tree/main/imatges/28BYJ-48 .jpg) | (https://github.com/maynej/Electronics-Stemfie/tree/main/Motor)
+Suport Servo-motor SG9|(https://github.com/maynej/Electronics-Stemfie/tree/main/imatges/Servomotor.jpg) | (https://github.com/maynej/Electronics-Stemfie/tree/main/Servomotor)
+Suport palanca Servo-motor SG9|(https://github.com/maynej/Electronics-Stemfie/tree/main/imatges/Adapter.jpg) | (https://github.com/maynej/Electronics-Stemfie/tree/main/Servomotor)
+Suport Sensor Ultrasons HC‐SR04‐P|(https://github.com/maynej/Electronics-Stemfie/tree/main/imatges/SensorDistancia.jpg) | (https://github.com/maynej/Electronics-Stemfie/tree/main/Sensor) 
+Suport Sensor Llum LDR|(https://github.com/maynej/Electronics-Stemfie/tree/main/imatges/LDR.jpg) | (https://github.com/maynej/Electronics-Stemfie/tree/main/Sensor) 
 
 
 
