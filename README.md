@@ -24,7 +24,7 @@ Suport Arduino i compatibles com UNO, Leonardo, Wemo, ESPduino, ESP8266, Alhambr
 Suport Expansió Micro:bit|![Microbit](/Imatges/Microbit.png) |[Microbit](CPU/MicrobitBaseStemfie.stl)  
 Suport Expansió ESP|![](Imatges/ESP.png) |    [Pending]
 Suport Motor DC TT|![](Imatges/MotorTT.png) |[MotorTT L1](Motors/MotorDC_TT_L1_mClonSTEMFIE.stl), [MotorTT L2](Motors/MotorDC_TT_L2_mClonSTEMFIE.stl), [MotorTT R1](Motors/MotorDC_TT_R1_mClonSTEMFIE.stl), [MotorTT R2](Motors/MotorDC_TT_R2_mClonSTEMFIE.stl) 
-Suport Motor DC N2 Reductora|![](Imatges/MotorReductora.png) | [MotorN2 ](Motors/Motor_N2_Stemfie.stl)
+Suport MotorN20 DC Reductora|![](Imatges/MotorN20Reductora.png)(Imatges/MotorN20.png) | [MotorN20 ](Motors/Motor_N2_Stemfie.stl)
 Suport Motor Pas a Pas 28BYJ‐48|![](Imatges/28BYJ-48.png) |[28BYJ-48 6V](Motors/28BYJ-48_6V_Stemfie.stl), [28BYJ-48 H](Motors/28BYJ-48_H_Stemfie.stl), [28BYJ-48 V](Motors/28BYJ-48_V_Stemfie.stl) 
 Suport Servo-motor SG9|![](Imatges/ServoMotor.png) | [ServoSuport 3H](ServoMount/ServoSuport3HStemfie.stl), [ServoSuport 3V](ServoMount/ServoSuport3VStemfie.stl), [ServoSuport 5H](ServoMount/ServoSuport5HStemfie.stl), [ServoSuport 3mig](ServoMount/ServoSuport4migStemfie.stl)
 Suport palanca Servo-motor SG9|![](Imatges/Adapter.png) |[Adapter SG9](ServoMount/Servo9GAdapter_Stemfie.stl)
