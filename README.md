@@ -17,7 +17,7 @@ Suports 3D
   
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
-Suport Arduino Nano|![ArduinoUNO](Imatges/ArduinoNano.png) | CPU  
+Suport Arduino Nano|![ArduinoUNO](Imatges/ArduinoNano.png) | [ArduinoUNO] CPU  
 Suport Bateria Li-ion 18650|![18650](Imatges/18650.png) | https://github.com/maynej/Electronics-Stemfie/tree/main/CPU  
 Suport Arduino UNO|![ArduinoUNO](Imatges/ArduinoUNO.png) | https://github.com/maynej/Electronics-Stemfie/tree/main/CPU 
 Suport Expansió Micro:bit|![Microbit](/Imatges/Microbit.png) | https://github.com/maynej/Electronics-Stemfie/tree/main/CPU  
