@@ -27,6 +27,6 @@ Suport Motor DC N2 Reductora|![](Imatges/MotorReductora.png) | [MotorN2 ](Motors
 Suport Motor Pas a Pas 28BYJ‐48|![](Imatges/28BYJ-48.png) |[28BYJ-48 6V](Motors/28BYJ-48_6V_Stemfie.stl), [28BYJ-48 H](Motors/28BYJ-48_H_Stemfie.stl), [28BYJ-48 V](Motors/28BYJ-48_V_Stemfie.stl) 
 Suport Servo-motor SG9|![](Imatges/ServoMotor.png) | [ServoSuport 3H](ServoMount/ServoSuport3HStemfie.stl), [ServoSuport 3V](ServoMount/ServoSuport3VStemfie.stl), [ServoSuport 5H](ServoMount/ServoSuport5HStemfie.stl), [ServoSuport 3mig](ServoMount/ServoSuport4migStemfie.stl)
 Suport palanca Servo-motor SG9|![](Imatges/Adapter.png) |[Adapter SG9](ServoMount/Servo9GAdapter_Stemfie.stl)
-Suport Sensor HC-SR04|![](Imatges/Adapter.png) |[HC-SR04 Asimetric 3H](SensorsMount/SensorAsimetric3H_Stemfie.stl), [HC-SR04 Asimetric 3V](SensorsMount/SensorAsimetric3Stemfie.stl), [HC-SR04 Asimetric 4V](SensorsMount/SensorAsimetric4Stemfie.stl)   
+Suport Sensor HC-SR04|![](Imatges/SensorDistancia.png) |[HC-SR04 Asimetric 3H](SensorsMount/SensorAsimetric3H_Stemfie.stl), [HC-SR04 Asimetric 3V](SensorsMount/SensorAsimetric3Stemfie.stl), [HC-SR04 Asimetric 4V](SensorsMount/SensorAsimetric4Stemfie.stl)   
 Suport Sensor Llum LDR|![](Imatges/LDR.png) | [LDR L](SensorsMount/LDRSensorL_STEMFIE.stl), [LDR R](SensorsMount/LDRSensorL_STEMFIE.stl)
 
