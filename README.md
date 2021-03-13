@@ -1,6 +1,6 @@
 # Electronics Stemfie
 
-Suports electrónics amb compatibilitat STEMFIE. Electronics supports with STEMFIE compability. 
+Suports electrónics amb compatibilitat STEMFIE. #f03c15 Electronics supports with STEMFIE compability. 
 
 Electronics Stemfie es una llibreria STL de suports per tarjes de control, sensors i actuadors amb compatibilidad Stemfie.
 
