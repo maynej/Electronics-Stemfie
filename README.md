@@ -5,6 +5,8 @@ Suports electrónics amb compatibilitat STEMFIE
 Electronics Stemfie es una llibreria STL de suports per tarjes de control, sensors i actuadors 
 amb compatibilidad Stemfie realitzada per [Jordi Mayné](https://github.com/maynej) 
 
+<img src="Logo3senseFons.png" width="350" />
+
 Stemfie es un projecte de construcció lliure, que s'imprimeix en 3D (http://stemfie.org) 
 
 Pretén facilitar l'automatització de les construccions amb targes Arduino, Microbit, ESP...
