@@ -2,7 +2,7 @@
 
 Suports electrónics amb compatibilitat STEMFIE. Electronics supports with STEMFIE compability. 
 
-Electronics Stemfie es una llibreria STL de suports per tarjes de control, sensors i actuadors amb compatibilidad Stemfie.
+Electronics Stemfie es una llibreria STL de suports per tarjes de control, sensors i actuadors amb compatibilitat Stemfie.
 
 Realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="Imatges/Logo3senseFons.png" width="50" />
 
