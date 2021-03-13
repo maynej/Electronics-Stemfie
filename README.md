@@ -17,8 +17,8 @@ Suports 3D
   
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
-Suport Arduino Nano i compatibles, com Leonardo, Wemo, ESPduino, ESP8266, Alhambra II|![ArduinoUNO](Imatges/ArduinoNano.png) | [ArduinoNano](CPU/ArduinoNanoStemfie.stl)  [ArduinoNano 2](CPU/ArduinoNano2Stemfie.stl)
-Suport Bateria Li-ion 18650|![18650](Imatges/18650.png) | [] CPU  
+Suport Arduino Nano i compatibles, com Leonardo, Wemo, ESPduino, ESP8266, Alhambra II|![ArduinoUNO](Imatges/ArduinoNano.png) | [ArduinoNano](CPU/ArduinoNanoStemfie.stl),  [ArduinoNano 2](CPU/ArduinoNano2Stemfie.stl)
+Suport Bateria Li-ion 18650|![18650](Imatges/18650.png) | [] (CPU)  
 Suport Arduino UNO|![ArduinoUNO](Imatges/ArduinoUNO.png) | https://github.com/maynej/Electronics-Stemfie/tree/main/CPU 
 Suport Expansió Micro:bit|![Microbit](/Imatges/Microbit.png) | https://github.com/maynej/Electronics-Stemfie/tree/main/CPU  
 Suport Expansió ESP|![ESP](Imatges/ESP.png) | https://github.com/maynej/Electronics-Stemfie/tree/main/CPU  
