@@ -1,6 +1,6 @@
 # Electronics Stemfie
 
-Suports electrónics amb compatibilitat STEMFIE
+Suports electrónics amb compatibilitat STEMFIE. Electronics supports with STEMFIE compability. 
 
 Electronics Stemfie es una llibreria STL de suports per tarjes de control, sensors i actuadors amb compatibilidad Stemfie.
 
@@ -12,9 +12,9 @@ Pretén facilitar l'automatització de les construccions amb targes Arduino, Mic
 
 Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Electronics-Stemfie/tree/main/Doc).
 
-[STL per imprimir] (https://github.com/maynej/Electronics-Stemfie).
+STL per imprimir (https://github.com/maynej/Electronics-Stemfie).
 
-Suports 3D
+## Suports 3D
   
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
