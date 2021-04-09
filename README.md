@@ -12,7 +12,7 @@ Pretén facilitar l'automatització de les construccions amb targes Arduino, Mic
 
 Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Electronics-Stemfie/tree/main/Doc).
 
-STL per imprimir (https://github.com/maynej/Electronics-Stemfie).
+STL per imprimir [aquí](https://github.com/maynej/Electronics-Stemfie).
 
 ## Suports 3D
   
