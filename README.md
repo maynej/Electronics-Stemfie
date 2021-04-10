@@ -8,7 +8,7 @@ Realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Stud
 
 Stemfie es un projecte de construcció lliure, que s'imprimeix en 3D (http://stemfie.org) 
 
-Pretén facilitar l'automatització de les construccions amb targes Arduino, Microbit, ESP...
+Pretén facilitar l'automatització de les construccions amb targes de control Arduino, Microbit, ESP..., Sensors, Servos, motors...
 
 Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Electronics-Stemfie/tree/main/Doc).
 
