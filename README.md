@@ -6,7 +6,7 @@ Electronics Stemfie es una llibreria STL de suports per tarjes de control, senso
 
 Realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="Imatges/Logo3senseFons.png" width="50" />
 
-Stemfie es un projecte de construcció lliure, que s'imprimeix en 3D (http://stemfie.org) 
+STEMFIE es un projecte de construcció lliure, que s'imprimeix en 3D (http://stemfie.org) <img src="Imatges/LogoSTEMFIE.png" width="100" />
 
 Pretén facilitar l'automatització de les construccions amb targes de control Arduino, Microbit, ESP..., Sensors, Servos, motors...
 
