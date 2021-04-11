@@ -34,4 +34,4 @@ Suport Sensor Llum LDR|![](Imatges/LDR.png) | [LDR L](SensorsMount/LDRSensorL_ST
 
 ## Llicència
 
-Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)<img src="Imatges/CC.png" width="100" />
