@@ -23,7 +23,7 @@ Suport Bateria Li-ion 18650|![18650](Imatges/18650.png) | [18650](CPU/18650Holde
 Suport Arduino i compatibles, com UNO, Leonardo, Wemo, ESPduino, ESP8266, Alhambra II|![](Imatges/ArduinoUNO.png)| [Arduino Base](CPU/ArduinoBaseStemfie.stl) 
 Suport Expansió Micro:bit|![Microbit](/Imatges/Microbit.png) |[Microbit](CPU/MicrobitBaseStemfie.stl)  
 Suport ESP8266 L293 |![](Imatges/ESP8266Base1.jpg) | [NodeMCU Motors DC](CPU/NodeMCUBaseStemfie.stl)
-Suport ESP8266 I/O |![](Imatges/ESPIO.jpg) | [NodeMCU I/O](CPU/ESP8266IOBaseStemfie.stl)
+Suport ESP8266 I/O |![](Imatges/ESPIO.jpg) | [NodeMCU I/O](CPU/ESP8266IOStemfie.stl)
 Suport Motor DC TT|![](Imatges/MotorTT.png) |[MotorTT L1](Motors/MotorDC_TT_L1_mClonSTEMFIE.stl), [MotorTT L2](Motors/MotorDC_TT_L2_mClonSTEMFIE.stl), [MotorTT R1](Motors/MotorDC_TT_R1_mClonSTEMFIE.stl), [MotorTT R2](Motors/MotorDC_TT_R2_mClonSTEMFIE.stl) 
 Suport MotorN20 DC Reductora|![](Imatges/MotorN20Reduct.png) | [MotorN20 ](Motors/Motor_N2_Stemfie.stl)
 Suport Motor Pas a Pas 28BYJ‐48|![](Imatges/28BYJ-48.png) |[28BYJ-48 6V](Motors/28BYJ-48_6V_Stemfie.stl), [28BYJ-48 H](Motors/28BYJ-48_H_Stemfie.stl), [28BYJ-48 V](Motors/28BYJ-48_V_Stemfie.stl) 
