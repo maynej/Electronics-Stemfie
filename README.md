@@ -27,7 +27,7 @@ Suport ESP8266 I/O |![](Imatges/ESPIO.jpg) | [NodeMCU I/O](CPU/ESP8266IOStemfie.
 Suport Motor DC TT|![](Imatges/MotorTT.png) |[MotorTT L1](Motors/MotorDC/MotorDC_TT_L1_mClonSTEMFIE.stl), [MotorTT L2](Motors/MotorDC/MotorDC_TT_L2_mClonSTEMFIE.stl), [MotorTT R1](Motors/MotorDC/MotorDC_TT_R1_mClonSTEMFIE.stl), [MotorTT R2](Motors/MotorDC/MotorDC_TT_R2_mClonSTEMFIE.stl) 
 Suport MotorN20 DC Reductora|![](Imatges/MotorN20Reduct.png) | [MotorN20 ](Motors/MotorDC/Motor_N2_Stemfie.stl)
 Suport Motor Pas a Pas 28BYJ‐48|![](Imatges/28BYJ-48.png) |[28BYJ-48 6V](Motors/MotorPAP28BYJ-48/28BYJ-48_6V_Stemfie.stl), [28BYJ-48 H](Motors/MotorPAP28BYJ-48/28BYJ-48_H_Stemfie.stl), [28BYJ-48 V](Motors/MotorPAP28BYJ-48/28BYJ-48_V_Stemfie.stl) 
-Engranatge per Motor 28BYJ-48|![](Imatges/28BYJ-48.png) |[28BYJ-48 6V](Motors/MotorPAP28BYJ-48/
+Engranatge per Motor 28BYJ-48|![](Imatges/Engranatges.jpg) |[28BYJ-48 6V](Motors/MotorPAP28BYJ-48/
 Suport Servo-motor SG9|![](Imatges/ServoMotor.png) | [ServoSuport 3H](ServoMount/SG9/ServoSuport3HStemfie.stl), [ServoSuport 3V](ServoMount/SG9/ServoSuport3VStemfie.stl), [ServoSuport 5H](ServoMount/SG9/ServoSuport5HStemfie.stl), [ServoSuport 3mig](ServoMount/SG9/ServoSuport4migStemfie.stl)
 Suport palanca Servo-motor SG9|![](Imatges/Adapter.png) |[Adapter SG9](ServoMount/SG9/Servo9GAdapter_Stemfie.stl)
 Suport Servo-motor MG996|![](Imatges/ServoMG996.png) | [ServoSuport H1](ServoMount/MG996/ServoMG966_H1.stl), [ServoSuport H2](ServoMount/MG996/ServoMG966_H2.stl), [ServoSuport V1](ServoMount/MG996/ServoMG966_V1.stl), [ServoSuport V2](ServoMount/MG996/ServoMG966_V2.stl), [ServoSuport V3](ServoMount/MG996/ServoMG966_V3.stl)
