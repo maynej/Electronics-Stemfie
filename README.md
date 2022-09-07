@@ -10,7 +10,7 @@ STEMFIE es un projecte de construcció lliure, que s'imprimeix en 3D (http://ste
 
 Pretén facilitar l'automatització de les construccions amb targes de control Arduino, Microbit, ESP..., Sensors, Servos, motors...
 
-Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Electronics-Stemfie/tree/main/Doc).
+Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Electronics-Stemfie/tree/main/Doc). També en castellà i anglés.
 
 STL per imprimir [aquí](https://github.com/maynej/Electronics-Stemfie).
 
