@@ -32,7 +32,7 @@ Suport Servo-motor SG9|![](Imatges/ServoMotor.png) | [ServoSuport 3H](ServoMount
 Suport palanca Servo-motor SG9|![](Imatges/Adapter.png) |[Adapter SG9](ServoMount/SG9/Servo9GAdapter_Stemfie.stl)
 Suport Servo-motor MG996|![](Imatges/MG996.png) | [ServoSuport H1](ServoMount/MG996/ServoMG966_H1.stl), [ServoSuport H2](ServoMount/MG996/ServoMG966_H2.stl), [ServoSuport V1](ServoMount/MG996/ServoMG966_V1.stl), [ServoSuport V2](ServoMount/MG996/ServoMG966_V2.stl), [ServoSuport V3](ServoMount/MG996/ServoMG966_V3.stl)
 Suport palanca Servo-motor MG996|![](Imatges/Brace_resize.png) |[Brace 2 MG996](ServoMount/MG996/Servo_MG996_Brace2.stl), [Brace 3 MG996](ServoMount/MG996/Servo_MG996_Brace3.stl), [Brace 4 MG996](ServoMount/MG996/Servo_MG996_Brace4.stl), [Brace 5 MG996](ServoMount/MG996/Servo_MG996_Brace5.stl),
-Suport Sensor HC-SR04|![](Imatges/SensorDistancia.png) |[HC-SR04 Asimetric 3H](SensorsMount/SensorAsimetric3H_SYEMFIE.stl), [HC-SR04 Asimetric 3V](SensorsMount/SensorAsimetric3STEMFIE.stl), [HC-SR04 Asimetric 4V](SensorsMount/SensorAsimetric4STEMFIE.stl)   
+Suport Sensor HC-SR04|![](Imatges/SensorDistancia.png) |[HC-SR04 Asimetric 3H](SensorsMount/SensorAsimetric3H_STEMFIE.stl), [HC-SR04 Asimetric 3V](SensorsMount/SensorAsimetric3STEMFIE.stl), [HC-SR04 Asimetric 4V](SensorsMount/SensorAsimetric4STEMFIE.stl)   
 Suport Sensor Llum LDR|![](Imatges/LDR.png) | [LDR L](SensorsMount/LDRSensorL.stl), [LDR R](SensorsMount/LDRSensorR.stl)
 
 ## Llicència
