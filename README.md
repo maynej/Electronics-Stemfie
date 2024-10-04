@@ -16,7 +16,7 @@ STL per imprimir [aquí](https://github.com/maynej/Electronics-Stemfie).
 
 ## Suports 3D
   
-Descripció         | Imatge          | Arxiu         
+Descripció         | Imatge          | Arxiu STL         
 ------------- | ------------- | ------------- 
 Suport Arduino Nano i tapa |![](Imatges/ArduinoNano.png) | [Arduino Nano](CPU/ArduinoNanoStemfie.stl), [Arduino Nano 2](CPU/ArduinoNano2Stemfie.stl), [Tapa Arduino Nano](CPU/TapaArduinoNanoStemfie.stl)
 Suport Bateria Li-ion 18650|![18650](Imatges/18650.png) | [18650](CPU/18650Holder2Stemfie.stl)
