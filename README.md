@@ -22,6 +22,7 @@ Suport Arduino Nano i tapa |![](Imatges/ArduinoNano.png) | [Arduino Nano](CPU/Ar
 Suport Bateria Li-ion 18650|![18650](Imatges/18650.png) | [18650](CPU/18650Holder2Stemfie.stl)
 Suport Arduino i compatibles, com UNO, Leonardo, Wemo, ESPduino, ESP8266, Alhambra II|![](Imatges/ArduinoUNO.png)| [ArduinoUNO Base](CPU/ArduinoBaseStemfie.stl) 
 Suport Expansió Micro:bit|![Microbit](/Imatges/Microbit.png) |[Microbit](CPU/MicrobitBaseStemfie.stl)  
+Suport Expansió MicroSTEAMakers |![MicroSTEAMakers](/Imatges/MicroSTEAMakers.jpg) |[MicroSTEAMakers](CPU/ShieldStemfie.stl) 
 Suport ESP8266 L293 |![](Imatges/ESP8266Base1.jpg) | [NodeMCU Motors DC](CPU/NodeMCUBaseStemfie.stl)
 Suport ESP8266 I/O |![](Imatges/ESPIO.jpg) | [NodeMCU I/O](CPU/ESP8266IOStemfie.stl)
 Suport Motor DC TT|![](Imatges/MotorTT.png) |[MotorTT L1](Motors/MotorDC/MotorDC_TT_L1_mClonSTEMFIE.stl), [MotorTT L2](Motors/MotorDC/MotorDC_TT_L2_mClonSTEMFIE.stl), [MotorTT R1](Motors/MotorDC/MotorDC_TT_R1_mClonSTEMFIE.stl), [MotorTT R2](Motors/MotorDC/MotorDC_TT_R2_mClonSTEMFIE.stl) 
